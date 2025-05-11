@@ -6,6 +6,9 @@ Hexagonal Tic Tac Toe is a graphical game developed using Python and Pygame. It 
 Screenshots:
 The screenshots of the game can be accessed through the folder /screenshots. The depict intitial state and win state of the game
 
+Video:
+https://drive.google.com/file/d/1TwnjodbOR6rdcgrGA4-46BldVl4Qsmt9/view
+
 Steps to Run:
 
 Install pygame:
